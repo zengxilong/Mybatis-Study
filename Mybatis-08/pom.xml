@@ -9,15 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>Mybatis-07</artifactId>
-    <dependencies>
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.18</version>
-            <scope>compile</scope>
-        </dependency>
-    </dependencies>
+    <artifactId>Mybatis-08</artifactId>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>

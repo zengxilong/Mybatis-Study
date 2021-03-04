@@ -16,6 +16,7 @@
         <module>Mybatis-05</module>
         <module>Mybatis-06</module>
         <module>Mybatis-07</module>
+        <module>Mybatis-08</module>
     </modules>
     <!--导入依赖-->
     <dependencies>
@@ -35,6 +36,14 @@
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
             <version>4.11</version>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.18</version>
+            <scope>provided</scope>
         </dependency>
     </dependencies>
 
